@@ -20,4 +20,21 @@ I work well in fast-paced environments, embracing Agile methodologies and collab
 Let's Collaborate!
 Whether you need to fix bugs, build custom APIs, integrate third-party services, or develop a full-stack Laravel application from scratch — I'm ready to help you turn your vision into reality.
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/muhammad-faisal-59a165326" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/muhammad-faisal-59a165326" target="blank"><img src="https://www.facebook.com/faisalsaith143" height="30" width="40" /></a><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muhammad-faisal-59a165326" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/MuhammadFaisal142" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/faisalsaith143" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
